@@ -1,8 +1,8 @@
 {
-  "name": "ywkj-tim",
+  "name": "@ywkj/tim",
   "main": "dist/lib/index.js",
   "type": "dist/lib/index",
-  "version": "0.0.6",
+  "version": "0.0.8-beta.3",
   "description": "即时通信tim",
   "scripts": {
     "test": "cross-env NODE_ENV=test jest --config=jest.config.js --runInBand",
