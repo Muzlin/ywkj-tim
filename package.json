@@ -30,7 +30,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "cos-js-sdk-v5": "^0.5.26",
+    "cos-js-sdk-v5": "^1.4.6",
     "tim-js-sdk": "^2.6.2"
   }
 }
